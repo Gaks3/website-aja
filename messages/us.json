@@ -1,0 +1,97 @@
+{
+  "Metadata": {
+    "title": "WebGue | Build Modern with WebGue",
+    "description": "Create stunning, high-performance websites effortlessly with WebsiteAja."
+  },
+  "Navigation": {
+    "home": "Home",
+    "benefits": "Benefits",
+    "pricing": "Pricing",
+    "testimonial": "Testimonial",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "word-1": "Build",
+    "word-2": "website with WebGue",
+    "beautiful": "beautiful",
+    "modern": "modern",
+    "better": "better",
+    "description": "Create stunning, high-performance websites effortlessly with WebsiteAja.",
+    "button": "Buy Now"
+  },
+  "GetStarted": {
+    "title": "Effortless website solutions, tailored for your success.",
+    "description": "This reflects simplicity, ease of use, and a focus on delivering results for customers. Feel free to adjust it according to your vision!",
+    "button": "Buy Now"
+  },
+  "Benefits": {
+    "section": "Benefits",
+    "title": "WebGue made easy",
+    "description": "In today's digital age, having a strong online presence is crucial for businesses of all sizes. Our website creation services offer you the perfect solution to establish and grow your brand online.",
+    "feature-1": {
+      "title": "Custom Designs Tailored to Your Brand",
+      "description": "We understand that every business is unique. Our team creates custom website designs that reflect your brand identity and engage your target audience effectively."
+    },
+    "feature-2": {
+      "title": "SEO Optimization",
+      "description": "Our websites are optimized for search engines from the ground up. This helps improve your visibility online and boost your ranking on search engine results pages."
+    },
+    "feature-3": {
+      "title": "Ongoing Support and Maintenance",
+      "description": "Our commitment doesn’t end at launch. We offer ongoing support and maintenance to ensure your website remains up-to-date, secure, and performing at its best.",
+      "skeleton-title": "Always Here for You",
+      "skeleton-description": "We ensure your website stays secure and updated."
+    },
+    "feature-4": {
+      "title": "Hosting over the edge",
+      "description": "Edge web hosting is a system that allows websites and web apps to be hosted closer to their users."
+    }
+  },
+  "Pricing": {
+    "section": "Pricing",
+    "title": "Choose the plan that's right for you",
+    "button-plan": "Buy Now",
+    "feature-title": "What's included:",
+    "per-year": "Per Year",
+    "basic-plan": {
+      "title": "Basic Plan",
+      "price": "350K",
+      "price-discount": "200K",
+      "description": "Affordable and straightforward, perfect for small websites. Ideal for personal projects or small businesses.",
+      "feature-1": "Up to 5 pages website design",
+      "feature-2": "SEO Basic: On-page optimization for basic search visibility",
+      "feature-3": "1 GB hosting storage",
+      "feature-4": "Monthly backups",
+      "feature-5": "Support for minor updates"
+    },
+    "standard-plan": {
+      "title": "Standard Plan",
+      "price": "800K",
+      "price-discount": "500K",
+      "description": "A balanced solution for growing businesses. Perfect for businesses looking to grow their online presence with more pages and better optimization.",
+      "feature-1": "Up to 15 pages website design",
+      "feature-2": "SEO Advanced: Includes keyword optimization and Google Analytics setup",
+      "feature-3": "10 GB hosting storage",
+      "feature-4": "Weekly backups",
+      "feature-5": "3 Business email accounts",
+      "feature-6": "Support for design tweaks and updates",
+      "feature-7": "Basic website maintenance: Includes security updates and bug fixes"
+    },
+    "custom-plan": {
+      "title": "Custom Plan",
+      "description": "Completely tailored to your needs, no limits. Ideal for businesses or projects that require a custom-built solution, tailored features, and complete flexibility.",
+      "feature-1": "Unlimited pages website design, tailored to your needs",
+      "feature-2": "SEO Pro: Full SEO services including keyword analysis, backlinking, and content strategy",
+      "feature-3": "Custom hosting storage (based on your requirements)",
+      "feature-4": "Daily backups",
+      "feature-5": "Unlimited business email accounts",
+      "feature-6": "Priority support and ongoing updates",
+      "feature-7": "Fully customized solutions based on your business goals",
+      "button": "Contact"
+    }
+  },
+  "Testimonial": {
+    "section": "Testimonial",
+    "title": "What people are saying"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "Metadata": {
+    "title": "WebGue | Website Modern dengan WebGue",
+    "description": "Buat website yang memukau dan berkinerja tinggi dengan mudah menggunakan WebsiteAja."
+  },
+  "Navigation": {
+    "home": "Beranda",
+    "benefits": "Keunggulan",
+    "pricing": "Harga",
+    "testimonial": "Testimonial",
+    "contact": "Kontak"
+  },
+  "Hero": {
+    "word-1": "Website",
+    "word-2": "dengan WebGue",
+    "beautiful": "indah",
+    "modern": "modern",
+    "better": "bagus",
+    "description": "Buat website yang memukau dan berkinerja tinggi dengan mudah menggunakan WebsiteAja.",
+    "button": "Beli Sekarang"
+  },
+  "GetStarted": {
+    "title": "Solusi situs web yang mudah, disesuaikan untuk kebutuhan Anda.",
+    "description": "Ini mencerminkan kesederhanaan, kemudahan penggunaan, dan fokus untuk memberikan hasil bagi pelanggan. Jangan ragu untuk menyesuaikannya sesuai visi Anda!",
+    "button": "Beli Sekarang"
+  },
+  "Benefits": {
+    "section": "Keunggulan",
+    "title": "WebGue Jadi Mudah",
+    "description": "Di era digital saat ini, memiliki website sangat penting untuk bisnis. Jasa pembuatan website kami menawarkan solusi sempurna untuk membangun dan mengembangkan merek Anda secara online.",
+    "feature-1": {
+      "title": "Desain Sesuai dengan Kebutuhan",
+      "description": "Kami memahami bahwa setiap bisnis itu unik. Tim kami membuat desain situs web khusus yang mencerminkan identitas merek Anda dan melibatkan audiens target Anda secara efektif."
+    },
+    "feature-2": {
+      "title": "SEO Optimisasi",
+      "description": "Web akan dioptimalkan untuk mesin pencari. Hal ini meningkatkan peringkat web di halaman mesin pencari."
+    },
+    "feature-3": {
+      "title": "Pemeliharaan dan Dukungan Teknis",
+      "description": "Komitmen kami tidak berakhir saat peluncuran. Kami menawarkan dukungan dan pemeliharaan berkelanjutan untuk memastikan situs web Anda tetap aman dan berkinerja terbaik.",
+      "skeleton-title": "Selalu Ada untuk Anda",
+      "skeleton-description": "Kami memastikan situs web Anda tetap aman dan diperbarui."
+    },
+    "feature-4": {
+      "title": "Edge Web Hosting",
+      "description": "Edge web hosting adalah sistem yang memungkinkan situs web dan aplikasi web dihosting lebih dekat dengan penggunanya."
+    }
+  },
+  "Pricing": {
+    "section": "Harga",
+    "title": "Pilih paket yang tepat untuk Anda",
+    "button-plan": "Beli Sekarang",
+    "feature-title": "Fitur Apa Saja:",
+    "per-year": "Per Tahun",
+    "basic-plan": {
+      "title": "Basic Plan",
+      "price": "350K",
+      "price-discount": "200K",
+      "description": "Terjangkau dan mudah, sempurna untuk situs web kecil. Ideal untuk proyek-proyek pribadi atau bisnis kecil.",
+      "feature-1": "Desain situs web hingga 5 halaman",
+      "feature-2": "SEO Basic: Pengoptimalan pada halaman untuk visibilitas pencarian dasar",
+      "feature-3": "Penyimpanan hosting 1 GB",
+      "feature-4": "Backup bulanan",
+      "feature-5": "Dukungan untuk pembaruan kecil"
+    },
+    "standard-plan": {
+      "title": "Standard Plan",
+      "price": "800K",
+      "price-discount": "500K",
+      "per-year": "Per Year",
+      "description": "Solusi yang seimbang untuk bisnis yang sedang berkembang. Sempurna untuk bisnis yang ingin lebih banyak halaman dan pengoptimalan yang lebih baik.",
+      "feature-1": "Desain situs web hingga 15 halaman",
+      "feature-2": "SEO Advanced: Termasuk pengoptimalan kata kunci dan Google Analytics",
+      "feature-3": "Penyimpanan hosting 10 GB",
+      "feature-4": "Backup mingguan",
+      "feature-5": "3 Akun email bisnis",
+      "feature-6": "Dukungan untuk penyesuaian dan pembaruan desain",
+      "feature-7": "Pemeliharaan situs web dasar: Termasuk pembaruan keamanan dan perbaikan bug"
+    },
+    "custom-plan": {
+      "title": "Custom Plan",
+      "description": "Sepenuhnya disesuaikan dengan kebutuhan Anda, tanpa batas. Ideal untuk bisnis atau proyek yang membutuhkan solusi yang dibuat khusus, fitur yang disesuaikan, dan fleksibilitas penuh.",
+      "feature-1": "Desain situs web tanpa batas halaman, disesuaikan dengan kebutuhan Anda",
+      "feature-2": "SEO Pro: Layanan SEO lengkap termasuk analisis kata kunci, backlink, dan strategi konten",
+      "feature-3": "Penyimpanan hosting kustom (berdasarkan kebutuhan Anda)",
+      "feature-4": "Backup daily",
+      "feature-5": "Akun email bisnis tak terbatas",
+      "feature-6": "Dukungan prioritas dan pembaruan berkelanjutan",
+      "feature-7": "Solusi yang sepenuhnya disesuaikan berdasarkan tujuan bisnis Anda",
+      "button": "Kontak"
+    }
+  },
+  "Testimonial": {
+    "section": "Testimoni",
+    "title": "Apa yang orang katakan"
+  }
+}
