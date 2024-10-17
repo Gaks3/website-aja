@@ -71,7 +71,7 @@ export default function Navbar({ locale }: { locale: string }) {
     <header className='w-full absolute lg:fixed top-0 inset-x-0 z-[150]'>
       <div
         className={cn(
-          'hidden lg:flex flex-row self-start items-center justify-between py-2 max-w-7xl mx-auto px-4 rounded-full relative z-[150] w-full min-w-[800px] will-change-auto transition-all duration-700 border-transparent',
+          'hidden lg:flex flex-row self-start items-center justify-between py-2 max-w-7xl mx-auto px-4 rounded-full relative z-[150] w-full min-w-[800px] will-change-auto transition-all duration-500 border-transparent',
           !scrolled
             ? 'bg-transparent dark:bg-transparent translate-y-0 w-full'
             : 'bg-white/80 dark:bg-neutral-950/80 translate-y-5 w-[40%] backdrop-blur-md border dark:border-l-0 dark:border-r-0 dark:border-b-0 dark:border-t border-border shadow-inner'
