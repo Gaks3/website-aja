@@ -53,7 +53,7 @@ export default async function LocaleLayout({
   children: React.ReactNode
   params: { locale: Locale }
 }) {
-  const theme = cookies().get('theme')?.value || 'system'
+  const theme = cookies().get('theme')?.value || 'light'
 
   unstable_setRequestLocale(locale)
 
