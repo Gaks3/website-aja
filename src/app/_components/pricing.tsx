@@ -72,6 +72,7 @@ export default function Pricing() {
               href={
                 'https://wa.me/6282242870305?text=Halo,%20saya%20tertarik%20dengan%20paket%20Basic%20Plan'
               }
+              target='_blank'
             >
               <span>{t('button-plan')}</span>
               <ChevronRightIcon size={18} />
@@ -133,6 +134,7 @@ export default function Pricing() {
             href={
               'https://wa.me/6282242870305?text=Halo,%20saya%20tertarik%20dengan%20paket%20Standard%20Plan'
             }
+            target='_blank'
           >
             <RainbowButton className='mt-6 w-full gap-2 justify-center h-11'>
               <span>{t('button-plan')}</span>
@@ -191,6 +193,7 @@ export default function Pricing() {
               href={
                 'https://wa.me/6282242870305?text=Halo,%20saya%20tertarik%20dengan%20paket%20Custom%20Plan'
               }
+              target='_blank'
             >
               <span>{t('custom-plan.button')}</span>
               <ChevronRightIcon size={18} />
