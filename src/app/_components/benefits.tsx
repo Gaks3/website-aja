@@ -133,7 +133,14 @@ export const SkeletonOne = () => {
 }
 
 export const SkeletonTwo = () => {
-  const images = ['/seo-3.jpeg', '/seo-1.jpeg', '/seo-4.jpeg', '/seo-3.jpeg']
+  const images = [
+    '/seo-3.jpeg',
+    '/seo-1.jpeg',
+    '/seo-4.jpeg',
+    '/seo-2.jpeg',
+    '/seo-5.jpeg',
+    '/seo-6.jpeg',
+  ]
 
   const imageVariants = {
     whileHover: {
