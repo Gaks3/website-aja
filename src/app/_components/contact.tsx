@@ -63,7 +63,7 @@ export default function Contact() {
             </div>
             <div className='space-y-3'>
               <div className='space-y-1'>
-                <h5 className='font-semibold text-xl'>{title}</h5>
+                <h4 className='font-semibold text-xl'>{title}</h4>
                 <p className='text-sm'>{description}</p>
               </div>
               <Link href={link} className='font-medium underline'>
