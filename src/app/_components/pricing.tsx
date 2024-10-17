@@ -66,9 +66,16 @@ export default function Pricing() {
           <Button
             className='mt-6 w-full gap-2 justify-center h-11'
             variant={'outline'}
+            asChild
           >
-            <span>{t('button-plan')}</span>
-            <ChevronRightIcon size={18} />
+            <Link
+              href={
+                'https://wa.me/6282242870305?text=Halo,%20saya%20tertarik%20dengan%20paket%20Basic%20Plan'
+              }
+            >
+              <span>{t('button-plan')}</span>
+              <ChevronRightIcon size={18} />
+            </Link>
           </Button>
         </div>
         <div className='relative bg-background shadow-2xl rounded-3xl p-8 ring-1 ring-border sm:p-10'>
@@ -122,10 +129,16 @@ export default function Pricing() {
               {t('standard-plan.feature-7')}
             </li>
           </ul>
-          <RainbowButton className='mt-6 w-full gap-2 justify-center h-11'>
-            <span>{t('button-plan')}</span>
-            <ChevronRightIcon size={18} />
-          </RainbowButton>
+          <Link
+            href={
+              'https://wa.me/6282242870305?text=Halo,%20saya%20tertarik%20dengan%20paket%20Standard%20Plan'
+            }
+          >
+            <RainbowButton className='mt-6 w-full gap-2 justify-center h-11'>
+              <span>{t('button-plan')}</span>
+              <ChevronRightIcon size={18} />
+            </RainbowButton>
+          </Link>
         </div>
       </div>
       <div className='mt-8 max-w-lg mx-auto xl:max-w-4xl'>
@@ -174,7 +187,11 @@ export default function Pricing() {
             variant={'default'}
             asChild
           >
-            <Link href={'#contact'}>
+            <Link
+              href={
+                'https://wa.me/6282242870305?text=Halo,%20saya%20tertarik%20dengan%20paket%20Custom%20Plan'
+              }
+            >
               <span>{t('custom-plan.button')}</span>
               <ChevronRightIcon size={18} />
             </Link>
